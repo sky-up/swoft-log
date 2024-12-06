@@ -16,7 +16,7 @@ Swoft Log Component
 - composer command
 
 ```bash
-composer require swoft/log
+composer require swoft-fork/log
 ```
 
 ## Resources

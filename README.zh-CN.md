@@ -16,7 +16,7 @@ The english readme please see [README.md](README.md)
 - composer 命令
 
 ```bash
-composer require swoft/log
+composer require swoft-fork/log
 ```
 
 ## 相关资源
